@@ -1,0 +1,9 @@
+﻿  CasaCoraje.cpp
+C:\Users\Lenovo\Desktop\CasaCoraje\CasaCoraje\CasaCoraje\CasaCoraje.cpp(646,24): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Lenovo\Desktop\CasaCoraje\CasaCoraje\CasaCoraje\CasaCoraje.cpp(1153,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Lenovo\Desktop\CasaCoraje\CasaCoraje\CasaCoraje\CasaCoraje.cpp(1154,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Lenovo\Desktop\CasaCoraje\CasaCoraje\CasaCoraje\CasaCoraje.cpp(1158,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Lenovo\Desktop\CasaCoraje\CasaCoraje\CasaCoraje\CasaCoraje.cpp(1159,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Lenovo\Desktop\CasaCoraje\CasaCoraje\CasaCoraje\CasaCoraje.cpp(1161,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Lenovo\Desktop\CasaCoraje\CasaCoraje\CasaCoraje\CasaCoraje.cpp(1162,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  CasaCoraje.vcxproj -> C:\Users\Lenovo\Desktop\CasaCoraje\CasaCoraje\Debug\CasaCoraje.exe
