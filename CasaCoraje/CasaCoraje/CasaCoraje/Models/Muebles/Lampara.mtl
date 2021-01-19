@@ -1,0 +1,47 @@
+newmtl Muuto_Pull_Floor_Lamp_highSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.50 0.50 0.50
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Muuto_Pull_Floor_Lamp_highSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.50 0.50 0.50
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Muuto_Pull_Floor_Lamp_highSG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Muuto_Pull_Floor_Lamp_highSG3
+illum 4
+Kd 0.04 0.04 0.04
+Ka 0.04 0.04 0.04
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Muuto_Pull_Floor_Lamp_highSG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd dcmap_Muuto_Pull Floor Lamp_diff(1).jpg
+Ni 1.00

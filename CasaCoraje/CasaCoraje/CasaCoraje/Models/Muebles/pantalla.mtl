@@ -1,0 +1,3208 @@
+newmtl initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje.jpg
+Ni 1.00
+newmtl pasted__Lampara_lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__Muuto_Pull_Floor_Lamp_highSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.50 0.50 0.50
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl pasted__Muuto_Pull_Floor_Lamp_highSG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl pasted__Muuto_Pull_Floor_Lamp_highSG3
+illum 4
+Kd 0.04 0.04 0.04
+Ka 0.04 0.04 0.04
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl pasted__Muuto_Pull_Floor_Lamp_highSG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl pasted__TV01_initialShadingGroup
+illum 4
+Kd 0.21 0.21 0.21
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__TV_lambert2SG
+illum 4
+Kd 0.10 0.10 0.10
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__TV_lambert3SG
+illum 4
+Kd 0.04 0.04 0.04
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__TV_lambert4SG
+illum 4
+Kd 0.17 0.13 0.05
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__TV_lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__TV_lambert7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__TV_lambert10SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje.jpg
+Ni 1.00
+newmtl pasted__blinn1SG
+illum 4
+Kd 0.19 0.19 0.19
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl pasted__blinn2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl pasted__blinn3SG
+illum 4
+Kd 0.77 0.77 0.77
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.23 0.23 0.23
+Ns 0.06
+newmtl pasted__blinn4SG
+illum 4
+Kd 0.89 0.63 0.17
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl pasted__blinn5SG
+illum 4
+Kd 0.03 0.03 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl pasted__lambert3SG2
+illum 4
+Kd 0.23 0.16 0.06
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__lambert77SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wood _texture3178.jpg
+Ni 1.00
+newmtl pasted__lambert78SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd patronflore.jpg
+Ni 1.00
+newmtl pasted__lambert80SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredflores.jpg
+Ni 1.00
+newmtl pasted__lambert81SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wood _texture3178.jpg
+Ni 1.00
+newmtl pasted__lambert82SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wood _texture3178.jpg
+Ni 1.00
+newmtl pasted__lambert83SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wood _texture3178.jpg
+Ni 1.00
+newmtl pasted__lambert84SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wood _texture3178.jpg
+Ni 1.00
+newmtl pasted__lambert85SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd blanco.jpg
+Ni 1.00
+newmtl pasted__lambert86SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cafe.jpg
+Ni 1.00
+newmtl pasted__lambert87SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd foco.jpg
+Ni 1.00
+newmtl pasted__lambert88SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd alfombra.jpg
+Ni 1.00
+newmtl pasted__lambert89SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredflores.jpg
+Ni 1.00
+newmtl pasted__lambert90SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredflores.jpg
+Ni 1.00
+newmtl pasted__lambert91SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredflores.jpg
+Ni 1.00
+newmtl pasted__lambert137SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje.jpg
+Ni 1.00
+newmtl pasted__lambert141SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ojo.jpg
+Ni 1.00
+newmtl pasted__pasted__Lampara_lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__Muuto_Pull_Floor_Lamp_highSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.50 0.50 0.50
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl pasted__pasted__Muuto_Pull_Floor_Lamp_highSG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl pasted__pasted__Muuto_Pull_Floor_Lamp_highSG3
+illum 4
+Kd 0.04 0.04 0.04
+Ka 0.04 0.04 0.04
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl pasted__pasted__Muuto_Pull_Floor_Lamp_highSG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl pasted__pasted__TV01_initialShadingGroup
+illum 4
+Kd 0.21 0.21 0.21
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__TV_lambert2SG
+illum 4
+Kd 0.10 0.10 0.10
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__TV_lambert3SG
+illum 4
+Kd 0.04 0.04 0.04
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__TV_lambert4SG
+illum 4
+Kd 0.17 0.13 0.05
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__TV_lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__TV_lambert7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__TV_lambert10SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje.jpg
+Ni 1.00
+newmtl pasted__pasted__blinn1SG
+illum 4
+Kd 0.19 0.19 0.19
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl pasted__pasted__blinn2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl pasted__pasted__blinn3SG
+illum 4
+Kd 0.77 0.77 0.77
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.23 0.23 0.23
+Ns 0.06
+newmtl pasted__pasted__blinn4SG
+illum 4
+Kd 0.89 0.63 0.17
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl pasted__pasted__blinn5SG
+illum 4
+Kd 0.03 0.03 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl pasted__pasted__lambert2SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert3SG2
+illum 4
+Kd 0.23 0.16 0.06
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__lambert5SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert7SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert8SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert9SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert10SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd techo.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert12SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert13SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert14SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert15SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert16SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert17SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd piso.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert19SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd piso.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert21SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert22SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd piso.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert23SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd piso.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert24SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert25SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert26SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert27SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert29SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert30SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert31SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert33SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert35SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd puerta.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert36SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd piso.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert77SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wood _texture3178.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert78SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd patronflore.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert78SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd patronflore.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert80SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredflores.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert80SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredflores.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert81SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wood _texture3178.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert82SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wood _texture3178.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert83SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wood _texture3178.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert84SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wood _texture3178.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert85SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd blanco.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert86SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cafe.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert87SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd foco.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert88SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd alfombra.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert89SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredflores.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert90SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredflores.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert91SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredflores.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert137SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coraje.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert2SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert2SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert2SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert2SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert2SG9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert2SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert2SG15
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert5SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert5SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert5SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert5SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert5SG9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert5SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert5SG15
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert7SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert7SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert7SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert7SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert7SG9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert7SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert7SG15
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert8SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert8SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert8SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert8SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert8SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert9SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert9SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert9SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert9SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert9SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert10SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd techo.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert10SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd techo.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert10SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd techo.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert10SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd techo.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert10SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd techo.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert11SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd techo.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert12SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert12SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert12SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert12SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert12SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert13SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert13SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert13SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert13SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert13SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert14SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert14SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert14SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert14SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert14SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert15SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert15SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert15SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert15SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert15SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert16SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert16SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert16SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert16SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert16SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert17SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd piso.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert17SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd piso.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert17SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd piso.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert17SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd piso.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert17SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd piso.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert19SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd piso.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert19SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd piso.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert19SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd piso.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert19SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd piso.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert19SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd piso.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert21SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert21SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert21SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert21SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert21SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert22SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd piso.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert22SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd piso.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert22SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd piso.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert22SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd piso.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert22SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd piso.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert23SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd piso.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert23SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd piso.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert23SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd piso.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert23SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd piso.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert23SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd piso.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert24SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert24SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert24SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert24SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert24SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert25SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert25SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert25SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert25SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert25SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert26SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert26SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert26SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert26SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert26SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert27SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert27SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert27SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert27SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert27SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert29SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert29SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert29SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert29SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert29SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert29SG9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert30SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert30SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert30SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert30SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert30SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert31SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert31SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert31SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert31SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert31SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert33SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert33SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert33SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert33SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert33SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert35SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd puerta.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert35SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd puerta.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert35SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd puerta.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert35SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd puerta.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert35SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd puerta.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert36SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd piso.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert36SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd piso.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert78SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd patronflore.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert80SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredflores.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert2SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert2SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert2SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert2SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert2SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert2SG9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert2SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert2SG11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert2SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert2SG15
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert2SG16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert2SG17
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert2SG18
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert2SG19
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert2SG20
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert5SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert5SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert5SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert5SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert5SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert5SG9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert5SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert5SG11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert5SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert5SG15
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert5SG16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert5SG17
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert5SG18
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert5SG19
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert5SG20
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert7SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert7SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert7SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert7SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert7SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert7SG9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert7SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert7SG11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert7SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert7SG15
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert7SG16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert7SG17
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert7SG18
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert7SG19
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert7SG20
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert8SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert8SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert8SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert8SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert9SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert9SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert9SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert9SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert10SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd techo.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert10SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd techo.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert10SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd techo.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert10SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd techo.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert11SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd techo.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert11SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd techo.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert11SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd techo.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert11SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd techo.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert11SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd techo.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert11SG9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd techo.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert12SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert12SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert12SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert12SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert13SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert13SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert13SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert13SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert14SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert14SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert14SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert14SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert15SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert15SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert15SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert15SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert16SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert16SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert16SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert16SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert17SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd piso.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert17SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd piso.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert17SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd piso.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert17SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd piso.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert19SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd piso.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert19SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd piso.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert19SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd piso.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert19SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd piso.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert21SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert21SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert21SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert21SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert22SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd piso.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert22SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd piso.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert22SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd piso.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert22SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd piso.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert23SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd piso.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert23SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd piso.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert23SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd piso.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert23SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd piso.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert24SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert24SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert24SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert24SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert25SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert25SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert25SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert25SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert26SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert26SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert26SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert26SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert27SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert27SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert27SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert27SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert29SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert29SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert29SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert29SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert29SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert29SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert29SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert29SG9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert29SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert30SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert30SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert30SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert30SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert31SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert31SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert31SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert31SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert33SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert33SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert33SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert33SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert35SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd puerta.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert35SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd puerta.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert35SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd puerta.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert35SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd puerta.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert36SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd piso.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert2SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert2SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert2SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert2SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert2SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert2SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert2SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert2SG9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert2SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert2SG11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert2SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert2SG13
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert2SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert5SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert5SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert5SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert5SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert5SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert5SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert5SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert5SG9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert5SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert5SG11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert5SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert5SG13
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert5SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert7SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert7SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert7SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert7SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert7SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert7SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert7SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert7SG9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert7SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert7SG11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert7SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert7SG13
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert7SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert11SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd techo.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert11SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd techo.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert11SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd techo.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert11SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd techo.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert11SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd techo.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert11SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd techo.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert11SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd techo.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert11SG9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd techo.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert11SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd techo.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert29SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert29SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert29SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert29SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert2SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert2SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert2SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert2SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert5SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert5SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert5SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert5SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert7SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert7SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert7SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert7SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd paredtriangulos.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert11SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd techo.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert11SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd techo.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert11SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd techo.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert11SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd techo.jpg
+Ni 1.00
+newmtl pasted__pasted__phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.10 0.10 0.10
+Ns 18.00
+newmtl pasted__pasted__sillon_lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texsillon.jpg
+Ni 1.00
+newmtl pasted__pasted__sillon_lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__sillon_lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__sillon_lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__sillon_lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.10 0.10 0.10
+Ns 18.00
+newmtl pasted__sillon_lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texsillon.jpg
+Ni 1.00
+newmtl pasted__sillon_lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__sillon_lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__sillon_lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__sillon_lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
